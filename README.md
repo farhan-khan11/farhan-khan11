@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## 🚀 About Me
+I'm a Full Stack Developer, passionate about building interactive web apps and exploring open source.
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express, MongoDB
+- Tools: Git, GitHub, VS Code, nodemailer, resend
+
+  ## 📫 Contact Me
+- Email: farhanibrahimfi70@gmail.com
+- LinkedIn: https://www.linkedin.com/in/farhan-khan-276749345/
 <!--
 **farhan-khan11/farhan-khan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
