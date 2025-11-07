@@ -6,7 +6,7 @@ I'm a Full Stack Developer, passionate about building interactive web apps and e
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express, MongoDB
-- Tools: Git, GitHub, VS Code, Postman nodemailer, resend
+- Tools: Git, GitHub, VS Code, Postman, nodemailer, resend
 
   ## 📫 Contact Me
 - Email: farhanibrahimfi70@gmail.com
