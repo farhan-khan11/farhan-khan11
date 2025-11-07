@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ## 🚀 About Me
-I'm a Full Stack Developer, passionate about building interactive web apps and exploring open source.
+I'm FARHAN KHAN, Full Stack Developer, passionate about building interactive web apps and exploring open source.
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express, MongoDB
-- Tools: Git, GitHub, VS Code, Postman, nodemailer, resend
+- Tools: Git, GitHub, VS Code, Postman, Nodemailer, Resend
 
   ## 📫 Contact Me
 - Email: farhanibrahimfi70@gmail.com
