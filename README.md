@@ -9,7 +9,7 @@ I'm FARHAN KHAN, Full Stack Developer, passionate about building interactive web
 - Tools: Git, GitHub, VS Code, Postman, Nodemailer, Resend
 
   ## 📫 Contact Me
-- Email: farhanibrahimfi70@gmail.com
+- Email: farhankhan94416@gmail.com
 - LinkedIn: https://www.linkedin.com/in/farhan-khan-276749345/
 <!--
 **farhan-khan11/farhan-khan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
