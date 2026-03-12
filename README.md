@@ -110,7 +110,7 @@ const farhan = {
 | 🖥️ **Private Git Server** | Self-hosted Git server with SSH auth and repo access control | Linux, Git, SSH | Self-Hosted |
 | 📱 **Mobile Backend Server** | Repurposed an Android phone as a Node.js backend server | Linux, Node.js, PM2 | Self-Hosted |
 | 📊 **System Monitor** *(WIP)* | Tool to track CPU, memory, disk usage with alerting | Node.js, React, Cron, Linux | In Progress |
-| ✅ **Tasky** | Full-stack task manager with CRUD and auth (MVC) | React, Node.js, Express, MongoDB | Bootcamp Project |
+| ✅ **Tasky** | A full-stack task management system built using the MVC architecture for corporate teams — tracks tasks, manages deadlines, and automatically sends alerts for pending work to keep teams on top of their responsibilities | React, Node.js, Express, MongoDB | Bootcamp Project |
 
 ---
 
@@ -130,7 +130,7 @@ const farhan = {
 ## 🎓 Education & Certifications
 
 - 🏫 **B.Tech — AI & ML** | Jayaprakash Narayan College of Engineering (JNTUH) | 2024–2028
-- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026 *(ongoing)*
+- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026 
   - MERN Stack · System Design · Backend Engineering
 
 ---
