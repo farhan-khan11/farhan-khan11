@@ -30,7 +30,7 @@ const farhan = {
   recentlyBuilt: [
     "Personal AI Voice Agent — handles recruiter calls autonomously",
     "ShopKart — Full Stack E-Commerce Platform with Razorpay & Cloudinary",
-    "100 Days of Coding Challenge Platform — Integrated GitHub OAuth - built to help developers stay consistent with DSA practice , in-browser code execution with custom online code compiler, and            automated GitHub commits"
+    "100 Days of Coding Challenge Platform — Integrated GitHub OAuth - built to help developers stay consistent with DSA practice , in-browser code execution with custom online code compiler, and automated GitHub commits"
   ],
   currentlyLearning: ["RAG", "Supervised & Unsupervised Learning", "Mathematics for ML", "LangChain & AI Agents"],
   interests: ["Self-Hosting", "Backend Engineering", "Full Stack + AI Integration", "Applied Machine Learning"],
