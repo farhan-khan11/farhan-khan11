@@ -24,13 +24,16 @@
 const farhan = {
   location: "Hyderabad, Telangana, India 🇮🇳",
   education: [
-    "B.Tech in AI & ML — JNCE (2024–2028)",
+    "B.Tech in AI & ML — JPNCE (2024–2028)",
     "Full Stack Web Engineering — The Hacking School (2025–2026)"
   ],
-  recentlyBuilt: "csGPT — Full Stack AI Chat App with locally hosted LLM",
-  currentlyBuilding: "ShopKart — Full Stack E-Commerce Platform with Razorpay & Cloudinary",
-  currentlyLearning: ["AI Agents", "RAG", "System Design", "DevOps"],
-  interests: ["Gen AI Integration", "Self-Hosting", "Backend Engineering", "Open Source LLMs"],
+  recentlyBuilt: [
+    "Personal AI Voice Agent — handles recruiter calls autonomously",
+    "ShopKart — Full Stack E-Commerce Platform with Razorpay & Cloudinary",
+    "100 Days of Coding Challenge Platform — Integrated GitHub OAuth - built to help developers stay consistent with DSA practice , in-browser code execution with custom online code compiler, and            automated GitHub commits"
+  ],
+  currentlyLearning: ["RAG", "Supervised & Unsupervised Learning", "Mathematics for ML", "LangChain & AI Agents"],
+  interests: ["Self-Hosting", "Backend Engineering", "Full Stack + AI Integration", "Applied Machine Learning"],
   funFact: "Turned an old Android phone into a backend server 📱→🖥️",
   goal: "Merge web technologies with AI to build impactful, production-grade solutions"
 };
@@ -135,7 +138,7 @@ const farhan = {
 ## 🎓 Education & Certifications
 
 - 🏫 **B.Tech — AI & ML** | Jayaprakash Narayan College of Engineering (JNTUH) | 2024–2028
-- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026 *(ongoing)*
+- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026
   - MERN Stack · System Design · Backend Engineering
 
 ---
