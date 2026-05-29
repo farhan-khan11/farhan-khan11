@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Farhan%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AIML%20Student&descColor=a78bfa&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Farhan%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AIML%20Engineer&descColor=a78bfa&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Applications;Integrating+Gen+AI+%2B+Full+Stack;Self-Hosting+%26+Linux+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Deploying" alt="Typing SVG" /></a>
