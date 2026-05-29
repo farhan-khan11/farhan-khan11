@@ -27,10 +27,12 @@ const farhan = {
     "B.Tech in AI & ML — JNCE (2024–2028)",
     "Full Stack Web Engineering — The Hacking School (2025–2026)"
   ],
-  currentlyBuilding: "csGPT — Full Stack AI Chat App with locally hosted LLM",
-  currentlyLearning: ["System Design", "Backend Engineering", "Gen AI Integration"],
+  recentlyBuilt: "csGPT — Full Stack AI Chat App with locally hosted LLM",
+  currentlyBuilding: "ShopKart — Full Stack E-Commerce Platform with Razorpay & Cloudinary",
+  currentlyLearning: ["AI Agents", "RAG", "System Design", "DevOps"],
+  interests: ["Gen AI Integration", "Self-Hosting", "Backend Engineering", "Open Source LLMs"],
   funFact: "Turned an old Android phone into a backend server 📱→🖥️",
-  goal: "Merge web technologies with AI to build impactful solutions"
+  goal: "Merge web technologies with AI to build impactful, production-grade solutions"
 };
 ```
 
@@ -104,13 +106,16 @@ const farhan = {
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🤖 **csGPT** | Full-stack AI chat app with locally hosted LLM via Ollama | React, Node.js, Express, MongoDB, Ollama | [Live](https://csgpt.farhankhan.in) · [Repo](https://github.com/farhan-khan11/csGPT) |
-| 🏦 **csBank** | Full-stack banking app with JWT auth, transactions, and Twilio/Resend APIs | Node.js, Express, MongoDB, Bootstrap | [Repo](https://github.com/farhan-khan11/csBank) |
-| 🔍 **GitHub Search Engine** | React app for searching GitHub users and repositories | React.js, GitHub API | Bootcamp Project |
-| 🖥️ **Private Git Server** | Self-hosted Git server with SSH auth and repo access control | Linux, Git, SSH | Self-Hosted |
-| 📱 **Mobile Backend Server** | Repurposed an Android phone as a Node.js backend server | Linux, Node.js, PM2 | Self-Hosted |
-| 📊 **System Monitor** *(WIP)* | Tool to track CPU, memory, disk usage with alerting | Node.js, React, Cron, Linux | In Progress |
-| ✅ **Tasky** | A full-stack task management system built using the MVC architecture for corporate teams — tracks tasks, manages deadlines, and automatically sends alerts for pending work to keep teams on top of their responsibilities | React, Node.js, Express, MongoDB | Bootcamp Project |
+| 🎙️ **AI Voice Agent** | Autonomously handles recruiter calls, answers questions using resume as LLM context, and sends Telegram notifications when a caller wants to schedule a meeting | Node.js, Twilio, Deepgram, Groq, Telegram Bot API | — |
+| 🤖 **csGPT** | Full-stack AI chat app integrating a locally hosted LLM via Ollama — no paid APIs, token-by-token streaming, JWT auth | React, Node.js, Express, MongoDB, Ollama, Nginx | [Live](https://csgpt.farhankhan.in) · [Repo](https://github.com/farhan-khan11/csGPT) |
+| 🛒 **ShopKart** | Full-stack e-commerce platform with role-based access, Cloudinary image uploads, Razorpay payments, cart & order management, and email/phone verification | React, Node.js, Express, MongoDB, Cloudinary, Razorpay | — |
+| 💻 **100 Days of Coding Platform** | Full-stack coding challenge platform with GitHub integration, online code compiler supporting multiple languages, and structured 100-day tracking workflow | React, Node.js, Express, Bash, GitHub API | — |
+| 🏦 **csBank** | Full-stack banking app (team project) with JWT auth, deposits, withdrawals, fund transfers, and Twilio/Resend communication APIs | Node.js, Express, MongoDB, Bootstrap | — |
+| 🔍 **GitHub Search Engine** | React app for searching GitHub users and repositories with GitHub API integration | React.js, GitHub API, Context API | Bootcamp Project |
+| 📊 **System Monitor** | Monitoring tool to track CPU, memory, disk usage and active processes with interactive CoreUI charts and alerting | Node.js, React, React CoreUI, Express | In Progress |
+| 🖥️ **Private Git Server** | Self-hosted Git server with SSH authentication and repository access control | Linux, Git, SSH | Self-Hosted |
+| 📱 **Mobile Backend Server** | Repurposed an old Android phone into a lightweight Node.js backend server managed with PM2 | Linux, Node.js, PM2 | Self-Hosted |
+| ✅ **Tasky – Corporate Task & Alert Management System** | Full-stack task management system built using MVC architecture for corporate teams — tracks tasks, manages deadlines, and automatically sends alerts for pending work | React, Node.js, Express, MongoDB | Bootcamp Project |
 
 ---
 
@@ -130,7 +135,7 @@ const farhan = {
 ## 🎓 Education & Certifications
 
 - 🏫 **B.Tech — AI & ML** | Jayaprakash Narayan College of Engineering (JNTUH) | 2024–2028
-- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026 
+- 💻 **Full Stack Web Engineering Bootcamp** | The Hacking School (cs.code.in) | 2025–2026 *(ongoing)*
   - MERN Stack · System Design · Backend Engineering
 
 ---
